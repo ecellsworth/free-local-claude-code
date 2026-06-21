@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Backups created by the setup script
+*.bak
+*.bak.*
+
+# Logs and temp
+*.log
+tmp/
+
+# Local setup state (lives in $HOME, never commit)
+.claude-ollama-setup/
